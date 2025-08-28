@@ -1,0 +1,6 @@
+please select  folder location
+-open termial
+-git clone url(github repo)
+-git add .
+-git commit -m "message"
+-git push -u origin main (or) master(branch name)
